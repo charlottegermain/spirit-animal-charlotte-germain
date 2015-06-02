@@ -9,4 +9,4 @@ my spirit animal is an owl.
   + the feathers at the front side of their wings are finer than other birds
 * owls are the subject of many myths and superstitions
 
-![](owl.jpg)
+![](bird.jpg)
